@@ -11,7 +11,7 @@ A simple, fast, and cross‑platform attendance management app built with Flutte
 ## Download
 Get the latest app build here:
 
-- Android APK: [Download the latest release](DOWNLOAD_LINK_PLACEHOLDER)
+- Android APK: [Download the latest release](https://github.com/AnujYadav-Dev/AttendGo-Showcase/releases/download/v1.0.0/Attend.Go.apk)
 
 ---
 
